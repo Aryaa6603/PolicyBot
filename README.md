@@ -40,7 +40,8 @@ nltk.download('wordnet')
 
 ## How to run
 
-You can run the [](Chatbot.ipynb) which also includes step by step instructions.
+You can run the file [](Chatbot.ipynb) which also includes step by step instructions.
+
 * Through Terminal
 ```
 python chatbot.py
