@@ -23,7 +23,6 @@ By developing this specialized Chatbot, I aim to streamline communication, foste
 
 [Natural Language Processing with Python](http://www.nltk.org/book/) provides a practical introduction to programming for language processing.
 
-For platform-specific instructions, read [here](https://www.nltk.org/install.html)
 
 ### Installation of NLTK
 ```
@@ -40,7 +39,6 @@ nltk.download('wordnet')
 ```
 
 ## How to run
-* Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK/master)
 
 You can run the [chatbot.ipynb](https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK/blob/master/Chatbot.ipynb) which also includes step by step instructions.
 * Through Terminal
