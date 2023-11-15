@@ -40,7 +40,7 @@ nltk.download('wordnet')
 
 ## How to run
 
-You can run the pynb file on colab [](Chatbot.ipynb) which also includes step by step instructions.
+You can run the PYNB file on colab which also includes step by step instructions. https://github.com/Aryaa6603/PolicyBot/blob/f5f1b60609273ce5cdf4b5a7a948a1b75c500b1d/Chatbot.ipynb
 
 * Through Terminal
 ```
