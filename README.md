@@ -1,4 +1,4 @@
-# PolicyBot, your one step to easing policies and rules enforcement!
+# PolicyBot, your one step to easing policies and rules enforcement
 
 Project Description:
 
